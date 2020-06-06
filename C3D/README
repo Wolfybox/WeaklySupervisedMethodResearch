@@ -1,1 +1,3 @@
-
+[代码说明]
+C3D Network.py ： C3D网络结构代码
+extract_c3d_features.py ： C3D特征抽取代码
